@@ -28,7 +28,7 @@
     "react-native-gesture-handler": "~1.3.0",
     "react-native-image-picker": "^1.1.0",
     "react-native-ionicons": "^4.6.3",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-modules": "^1.0.0",
     "react-native-svg": "^9.13.3",
     "react-native-typography": "^1.4.1",
